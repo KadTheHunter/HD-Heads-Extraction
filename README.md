@@ -13,7 +13,8 @@ HD Heads were custom heads that, prior to Minecraft 1.17, were capable of displa
 
 While many of the HD Heads created by the community have little or no value (simply being common images, memes and logos), there were several collections that were largely or even entirely made of custom artwork.
 
-While Minecraft 1.17+ prevents the textures from being loaded, mods such as _CustomSkinLoader_ can be used to bypass the restrictions and load them anyway. (Check out my post '[Restoring HD Heads](https://kadthehunter.github.io/ShulkerArchives/guides/restoring-hd-heads/)' for more information!)
+While Minecraft 1.17+ prevented the textures from being loaded, mods such as _[CustomSkinLoader](https://modrinth.com/mod/customskinloader)_, _[SoHead](https://github.com/khang06/SoHead)_ and _[hdheadfinal](https://github.com/tealreal/hdheadfinal)_ were used to bypass the restrictions and load them anyway. Somewhere around July 2024, Mojang deleted every single HD Head from the _Minecraft: Education Edition_ website, rendering the entire collection useless.
+The copies here, alongside individual players caches are all that remain of them.
 
 I took the collection of HD Heads I've amassed within [The Shulker Archives](https://kadthehunter.github.io/ShulkerArchives/), and carefully extracted all the textures I could. This was done by loading them in a clean Minecraft instance, one box at a time, and saving copies of the files that appeared in `.minecraft/assets/skins/`.
 
